@@ -1,0 +1,31 @@
+{
+  "name": "duckhuntcss",
+  "version": "1.0.0",
+  "description": "A duck hunt game in css only, no javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaielab/DuckHuntCss.git"
+  },
+  "keywords": [
+    "DuckHunt",
+    "Css"
+  ],
+  "author": "Etienne V. Labelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaielab/DuckHuntCss/issues"
+  },
+  "homepage": "https://github.com/vaielab/DuckHuntCss#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "compass": "^0.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
